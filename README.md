@@ -34,9 +34,11 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 
 ## 🗣️ Languages
 
-<img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="English" /> 
-<img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ukrainian" /> 
-<img src="https://img.shields.io/badge/Deutsch-B2-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Deutsch" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="30" title="English" alt="English"/> 
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ua.svg" width="30" title="Ukrainian" alt="Ukrainian"/> 
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="30" title="Deutsch" alt="Deutsch"/>
+</p>
 
 ## 📊 GitHub Stats
 
