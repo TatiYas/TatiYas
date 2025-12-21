@@ -48,6 +48,25 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
  
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tetiana-yasynovska) 
-[![Email](https://img.shields.io/badge/Email-T.Yasynovska@web.de-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:T.Yasynovska@web.de)
+<p align="center">
+  <a href="https://linkedin.com/in/tetiana-yasynovska" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tetiana%20Yasynovska-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:T.Yasynovska@web.de">
+    <img src="https://img.shields.io/badge/Email-T.Yasynovska@web.de-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TetianaYasynovska" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-TetianaYasynovska-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 👩‍💻 Working Illustration
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourusername/typing-girl.gif" alt="Blonde girl typing on laptop" width="400"/>
+</p>
 
