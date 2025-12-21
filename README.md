@@ -35,9 +35,9 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 ## 🗣️ Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="30" title="English" alt="English"/> 
-  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ua.svg" width="30" title="Ukrainian" alt="Ukrainian"/> 
-  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="30" title="Deutsch" alt="Deutsch"/>
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="30" title="English" alt="English"/> <b>English</b> (B2) &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ua.svg" width="30" title="Ukrainian" alt="Ukrainian"/> <b>Ukrainian</b> (Native) &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="30" title="Deutsch" alt="Deutsch"/> <b>Deutsch</b> (B2)
 </p>
 
 ## 📊 GitHub Stats
