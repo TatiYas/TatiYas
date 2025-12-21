@@ -49,7 +49,7 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tetiana-yasynovska" target="_blank">
+  <a href="https://linkedin.com/in/tetiana-yasynovska-7aa5a1322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tetiana%20Yasynovska-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
