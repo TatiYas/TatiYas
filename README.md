@@ -57,7 +57,7 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
     <img src="https://img.shields.io/badge/Email-T.Yasynovska@web.de-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/TetianaYasynovska" target="_blank">
+  <a href="https://github.com/TatiYas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-TetianaYasynovska-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
