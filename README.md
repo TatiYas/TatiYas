@@ -32,20 +32,20 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 
 - [IceCream Landing](https://github.com/yourusername/icecream-team-project) – a responsive landing page for an ice cream brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.  
 
-🗣️ Languages
+## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
-
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
-![Deutsch](https://img.shields.io/badge/Deutsch-B2-lightgrey?style=flat-square)
-
+<img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="English" /> 
+<img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ukrainian" /> 
+<img src="https://img.shields.io/badge/Deutsch-B2-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Deutsch" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TatiYas&show_icons=true&theme=default" />
 </p>
+ 
+## 📫 How to reach me
 
-📫 How to reach me:  
-[LinkedIn]([https://linkedin.com/in/tetiana-yasynovska)) | [Email](mailto:T.Yasynovska@web.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tetiana-yasynovska) 
+[![Email](https://img.shields.io/badge/Email-T.Yasynovska@web.de-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:T.Yasynovska@web.de)
+
