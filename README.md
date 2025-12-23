@@ -27,7 +27,7 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 
 <div align="center">
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="./img/nodejs.svg" alt="Node.js" height="40" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src=".img/typescript.svg" alt="TypeScript" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./img/typescript.svg" alt="TypeScript" height="40" /></a>
 </div>
 
 </td><td valign="top" width="33%" align="center">
