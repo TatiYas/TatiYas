@@ -35,10 +35,10 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 #### <div style="color: #41b883; margin-bottom: 10px;" align="center">Tools</div>
 
 <div align="center">
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="../TatiYas/img/devops/tools/github.svg" alt="Git" height="40" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="../TatiYas/img/devops/tools/vscode.svg" alt="VS Code" height="40" /></a>
-<a href="https://www.figma.com/community/" target="_blank"><img style="margin: 10px" src="./img/frontend/figma.svg" alt="Figma" height="40" /></a>
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="../TatiYas/img/frontend/postman.svg" alt="Postman" height="40" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./github.svg" alt="Git" height="40" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./vscode.svg" alt="VS Code" height="40" /></a>
+<a href="https://www.figma.com/community/" target="_blank"><img style="margin: 10px" src="./img/figma.svg" alt="Figma" height="40" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="./img/postman.svg" alt="Postman" height="40" /></a>
 </div>
 
 </td></tr></table>
