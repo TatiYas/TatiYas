@@ -16,8 +16,8 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 #### <div style="color: #41b883; margin-bottom: 10px;" align="center">Front-end</div>
 
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="../TatiYas/img/frontend/html5.svg" alt="HTML5" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="../TatiYas/img/frontend/css3.svg" alt="CSS3" height="40" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src=".img/frontend/html5.svg" alt="HTML5" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src=".img/frontend/css3.svg" alt="CSS3" height="40" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="../TatiYas/img/frontend/javascript.svg" alt="JavaScript" height="40" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="../TatiYas/img/frontend/react.svg" alt="React" height="40" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="../TatiYas/img/frontend/redux.svg" alt="Redux" height="40" /></a>
