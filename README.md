@@ -9,8 +9,6 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 - 🚀 Methodologies: Agile / Scrum
 
 
-## 🧰 Tech Stack
-
 ## <span style="color:#e0234e;">🧰 Tech Stack</span>
 
 <table><tr><td valign="top" width="33%" align="center">
