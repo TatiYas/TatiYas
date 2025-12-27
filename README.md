@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tetiana Yasynovska, a Junior Full-Stack Developer.
 
-Full-stack developer with experience in **JavaScript, TypeScript, React, Redux, and Node.js**.  
+Junior Full-Stack developer with experience in **JavaScript, TypeScript, React, Redux, and Node.js**.  
 I build scalable single-page applications, integrate REST APIs, and focus on clean, maintainable code.
 
 - 💻 Frontend: React, TypeScript, Redux
