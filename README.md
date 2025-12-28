@@ -5,7 +5,7 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
 
 - 💻 Frontend: React, TypeScript, Redux
 - ⚙️ Backend: Node.js, REST APIs
-- 🛠 Tools: Git, VS Code
+- 🛠 Tools: Git, Figma, VS Code
 - 🚀 Methodologies: Agile / Scrum
 
 
