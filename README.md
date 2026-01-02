@@ -66,12 +66,6 @@ I build scalable single-page applications, integrate REST APIs, and focus on cle
   <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="30" title="Deutsch" alt="Deutsch"/> <b>Deutsch</b> (B2)
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TatiYas&show_icons=true&theme=default" />
-</p>
- 
 ## 📫 How to reach me
 
 <p align="center">
